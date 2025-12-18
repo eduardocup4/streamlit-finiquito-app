@@ -1,0 +1,14 @@
+Excel Templates for Finiquito System
+Generated: 2025-12-14 01:06:15.015319
+==================================================
+
+- f_finiquito_template.xlsx
+- memo_finalizacion_template.xlsx
+- f_salida_template.xlsx
+- f_equipos_template.xlsx
+- contable_preview_template.xlsx
+- rechazo_post_template.xlsx
+
+==================================================
+These templates use {{placeholders}} that will be replaced by the application.
+Templates can be customized and uploaded through the Admin panel.

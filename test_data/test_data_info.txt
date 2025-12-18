@@ -1,0 +1,22 @@
+Test Data for Finiquito System
+Generated: 2025-12-14 01:07:18.433041
+==================================================
+
+Employees in test data:
+  - Juan Carlos Mendoza López (CI: 4567890)
+  - María Elena Vargas Castro (CI: 5678901)
+  - Roberto Fernández Quiroga (CI: 6789012)
+  - Ana Patricia Rojas Salinas (CI: 7890123)
+  - Carlos Alberto Gutiérrez (CI: 8901234)
+
+Files:
+  - Payroll Month 1: planilla_2025_09_mes1.xlsx
+  - Payroll Month 2: planilla_2025_10_mes2.xlsx
+  - Payroll Month 3: planilla_2025_11_mes3.xlsx
+  - RDP Data: rdp_personal.xlsx
+
+Notes:
+  - Empresa names have variations to test homologation
+  - Each payroll file has 'Planilla' and 'Resumen' sheets
+  - RDP file has 'RDP' and 'Metadata' sheets
+  - Total_Ganado = Haber_Basico + Bono_Antiguedad + Otros_Bonos
